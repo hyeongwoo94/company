@@ -5,6 +5,9 @@ function App() {
   return (
     <>
       <div>설치완료</div>
+      <div>설치완료</div>
+      <div>설치완료</div>
+      <div>설치완료</div>
     </>
   )
 }
